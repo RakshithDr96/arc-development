@@ -17,7 +17,7 @@ const useStyles = makeStyles((theme) => ({
     position: "relative",
   },
   adornment: {
-    width: "24em",
+    width: "25em",
     verticalAlignment: "bottom",
     [theme.breakpoints.down("md")]: {
       width: "23em",
