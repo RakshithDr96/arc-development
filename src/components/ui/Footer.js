@@ -67,7 +67,7 @@ export default function Footer(props) {
                 style={{
                   color: "white",
                   fontFamily: "Arial",
-                  fontSize: "0.74rem",
+                  fontSize: "0.75rem",
                   fontWeight: "bold",
                   textDecoration: "none",
                 }}
